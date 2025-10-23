@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Effects of Lamina Stacking Sequence and Areal Weight (GSM) on the Mechanical Properties of S-Glass/Polyester Composites"
+authors:
+  - family-names: "Sadman"
+    given-names: "Sajid"
+  - family-names: "Ahmed"
+    given-names: "Mahfuz"
+  - family-names: "Hossain"
+    given-names: "Raiyan"
+type: thesis
+date-released: "2025-06-01"
+repository-code: "https://github.com/<your-username>/thesis-sglass-polyester-laminate"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: thesis
+  title: "Effects of Lamina Stacking Sequence and Areal Weight (GSM) on the Mechanical Properties of S-Glass/Polyester Composites"
+  authors:
+    - family-names: "Sadman"
+      given-names: "Sajid"
+    - family-names: "Ahmed"
+      given-names: "Mahfuz"
+    - family-names: "Hossain"
+      given-names: "Raiyan"
+  year: 2025
+  institution: "Ahsanullah University of Science and Technology (AUST) — Dept. of Mechanical & Production Engineering"
+  url: "https://github.com/<your-username>/thesis-sglass-polyester-laminate"
