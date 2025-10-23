@@ -13,7 +13,7 @@
 
 ---
 
-## TL;DR (for recruiters)
+## TL;DR
 - **Problem:** quantify how **stacking sequence** and **areal weight (GSM)** affect tensile/flexural behavior of S‑glass/polyester laminates.  
 - **Approach:** fabricate laminates at **200 GSM** and **600 GSM** with two lay‑ups — **asymmetric** `[0/+60/−60]` and **anti‑symmetric** `[+60/0/−60]`; run ASTM tensile/bending tests and **CLT** (Classical Lamination Theory) in MATLAB.  
 - **Result (high level):** 200 GSM tends to excel in **bending**, while 600 GSM shows higher **tensile** capacity; lay‑up choice meaningfully shifts modulus/strength.
