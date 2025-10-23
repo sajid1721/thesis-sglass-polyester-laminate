@@ -1,3 +1,5 @@
+[![Code: MIT](https://img.shields.io/badge/Code%20License-MIT-blue)](./LICENSE)
+[![Docs: CC BY-NC 4.0](https://img.shields.io/badge/Docs%20License-CC%20BY--NC%204.0-yellow)](./LICENSE-DOCS-CC-BY-NC-4.0.txt)
 # Effects of Lamina Stacking Sequence and Areal Weight (GSM) on the Mechanical Properties of S‑Glass/Polyester Composites
 
 **Authors:** Sajid Sadman · Mahfuz Ahmed · Raiyan Hossain  
